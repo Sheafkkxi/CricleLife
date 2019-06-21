@@ -1,0 +1,1 @@
+<view bind:__l="__l"><calendar date="{{date}}" lunar="{{true}}" disable-before="{{true}}" start-date="2019-3-2" end-date="2019-5-20" data-event-opts="{{[['^change',[['change']]],['^toClick',[['toClick']]]]}}" bind:change="__e" bind:toClick="__e"></calendar></view>

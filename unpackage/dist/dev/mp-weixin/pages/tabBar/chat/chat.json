@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Chat",
+  "usingComponents": {
+    "calendar": "/components/uni-calendar/uni-calendar"
+  }
+}
